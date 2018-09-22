@@ -59,6 +59,9 @@ Build/*
 Build/*/**
 !Build/*/PakBlacklist*.txt
 
+# Whitelist SSHKeys folder
+!Build/SSHKeys/**
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
