@@ -7,6 +7,14 @@
 		{
 			"Name": "GoogleARCore",
 			"Enabled": true
+		},
+		{
+			"Name": "AppleARKit",
+			"Enabled": true
+		},
+		{
+			"Name": "AppleARKitFaceSupport",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
