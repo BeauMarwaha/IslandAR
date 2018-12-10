@@ -76,8 +76,8 @@ Build/*/**
 !Build/Android/res/drawable-mdpi/*
 !Build/Android/res/drawable-nodpi
 !Build/Android/res/drawable-nodpi/*
-!Build/Android/res/drawable-xodpi
-!Build/Android/res/drawable-xodpi/*
+!Build/Android/res/drawable-xhdpi
+!Build/Android/res/drawable-xhdpi/*
 
 # Whitelist SSHKeys folder
 !Build/SSHKeys/**
